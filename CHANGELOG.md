@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.0
+  * Updates for python 3.11 [#46](https://github.com/singer-io/tap-sftp/pull/46)
+ 
 ## 1.2.0
   * Support Multiple Encoding Formats [#36](https://github.com/singer-io/tap-sftp/pull/44)
 
